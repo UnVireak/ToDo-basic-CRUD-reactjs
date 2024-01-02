@@ -1,0 +1,2 @@
+    // "start": "concurrently \"npm run tailwind\" \"npm run react-start\"",
+    // "build": "react-scripts build",
